@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/truthordare/static/css/main.0e563bf9.css",
+    "main.js": "/truthordare/static/js/main.03be7bb0.js",
+    "static/js/787.4e9c3c71.chunk.js": "/truthordare/static/js/787.4e9c3c71.chunk.js",
+    "index.html": "/truthordare/index.html",
+    "main.0e563bf9.css.map": "/truthordare/static/css/main.0e563bf9.css.map",
+    "main.03be7bb0.js.map": "/truthordare/static/js/main.03be7bb0.js.map",
+    "787.4e9c3c71.chunk.js.map": "/truthordare/static/js/787.4e9c3c71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e563bf9.css",
+    "static/js/main.03be7bb0.js"
+  ]
+}
