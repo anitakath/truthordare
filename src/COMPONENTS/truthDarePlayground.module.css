@@ -1,0 +1,23 @@
+
+.fieldContainer{
+    border:2px solid purple;
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+}
+
+.fieldContainer h1{
+    color: purple;
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}

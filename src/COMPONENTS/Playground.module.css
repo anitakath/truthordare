@@ -1,0 +1,59 @@
+
+.playgroundContainer{
+    border: 2px solid black;
+    width: 100vw;
+    height: 70vh;
+    position: relative;
+  }
+  
+  .playground{
+    width: 100vw;
+    height: 50%;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: white
+  }
+  
+  .currentUserContainer{
+    position: absolute;
+    border: 2px solid white;
+    width: 100vw;
+    height: 70vh;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    color: white;
+  }
+  
+  .currentUser{
+    border: 2px solid white;
+    padding: 10px;
+    background-color: white;
+    color: purple;
+    z-index: 10;
+    
+  }
+  
+  .gameBtns{
+    background-color: transparent;
+    color: white;
+    font-size: 3rem;
+    cursor: pointer;
+    z-index: 1000;
+  
+  }
+  
+  
+  #truth{
+    border-bottom: 2px solid white;
+  }
+  
+  
+  

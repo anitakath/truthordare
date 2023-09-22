@@ -1,0 +1,25 @@
+.modalContainer{
+    background-color: hsla(0, 0%, 0%, 0.9);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    z-index:1000;
+    position: absolute;
+    top: 0;
+}
+
+.modalButton{
+    border: 2px solid purple;
+    width: 200px;
+    height: 50px;
+    background-color: purple;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bolder;
+    margin: 40px 10px 0px 10px;
+    cursor: pointer;
+}
